@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using ACReditPlus.TestLib1;
 namespace TestNuGetRestore
 {
@@ -6,7 +10,6 @@ namespace TestNuGetRestore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             ReturnString returnString = new ReturnString();
             Console.WriteLine(returnString.TimeAndLocation());
             Console.Read();

@@ -1,0 +1,10 @@
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\TestNuGetRestore.csprojResolveAssemblyReference.cache
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\TestNuGetRestore.csproj.CoreCompileInputs.cache
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\TestNuGetRestore.exe.config
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\TestNuGetRestore.exe
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\TestNuGetRestore.pdb
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\ACReditPlus.TestLib1.dll
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\ACReditPlus.TestLib2.dll
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\Evaluator.dll
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\TestNuGetRestore.exe
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\TestNuGetRestore.pdb
