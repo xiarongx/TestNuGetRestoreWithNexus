@@ -1,0 +1,11 @@
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\netcoreapp2.0\TestNuGetRestore.deps.json
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\netcoreapp2.0\TestNuGetRestore.runtimeconfig.json
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\netcoreapp2.0\TestNuGetRestore.runtimeconfig.dev.json
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\netcoreapp2.0\TestNuGetRestore.dll
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\netcoreapp2.0\TestNuGetRestore.csprojResolveAssemblyReference.cache
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\netcoreapp2.0\TestNuGetRestore.csproj.CoreCompileInputs.cache
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\netcoreapp2.0\TestNuGetRestore.AssemblyInfoInputs.cache
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\netcoreapp2.0\TestNuGetRestore.AssemblyInfo.cs
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\bin\Debug\netcoreapp2.0\TestNuGetRestore.pdb
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\netcoreapp2.0\TestNuGetRestore.dll
+c:\users\cxu\source\repos\TestNuGetRestore\TestNuGetRestore\obj\Debug\netcoreapp2.0\TestNuGetRestore.pdb
